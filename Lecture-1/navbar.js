@@ -8,7 +8,7 @@ function navbar(props) {
         <li>About</li>
         <li>Services</li>
         <li>Contact</li>
-        <li>{props.navitem}</li>
+        <li>{props.navitem}</li> 
       </ul>
     </div>
   )
