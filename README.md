@@ -4,3 +4,9 @@ In this Repo, We will see all the REACT JS topic from beginner to advance level 
 If you want to learn you can learn from the mozilla documnetation or you can learn through this repo and can use this repo for practice as well ........
 
 <u>In this is repo i am going to provide you only react file [app.js , componenet is it is] because providing all unnecessary files and folder will be waste .....</u>
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Lecutre-1
+In this lecture , we just saw a glimpse of react and we are going to further going to saw more thing , till now topics are covered :-
+1. Props for component management
+2. usestate of react
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
