@@ -14,4 +14,5 @@ In this lecture , we just saw a glimpse of react and we further going to saw mor
 In this lecture , we are going to dive in react with vite (vite inhances the development spped of react) and we further going to saw more thing , till now topics are covered :-
 1. Hook in React JS
 2. State in React JS
+3. UseEffect in React JS
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
