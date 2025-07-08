@@ -16,3 +16,8 @@ In this lecture , we are going to dive in react with vite (vite inhances the dev
 2. State in React JS
 3. UseEffect in React JS
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Lecture-3
+In this lecture , we are going to dive in react with vite (vite inhances the development spped of react) and we further going to saw more thing , till now topics are covered :-
+1. Conditional Rendering
+2. Redering the list with help of map function
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
