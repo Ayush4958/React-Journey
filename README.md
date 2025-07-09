@@ -21,3 +21,9 @@ In this lecture , we are going to dive in react with vite (vite inhances the dev
 1. Conditional Rendering
 2. Redering the list with help of map function
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Lecture-4
+In this lecture , we are going to dive in react with vite (vite inhances the development spped of react) and we further going to saw more thing , till now topics are covered :-
+1. Event Listening in React
+2. Special event listening with individual input tags
+3. Event listening with multiple input tags
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
