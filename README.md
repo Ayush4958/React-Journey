@@ -27,3 +27,6 @@ In this lecture , we are going to dive in react with vite (vite inhances the dev
 2. Special event listening with individual input tags
 3. Event listening with multiple input tags
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# CARD PRACTICE PROJECT
+JUST DISPLAYING THE DATA OF AOI IN WEB IN THE FORM OF CARD NOTHING NEW BUT, IT WILL BE A NICE PRACTICE PROJECT
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
