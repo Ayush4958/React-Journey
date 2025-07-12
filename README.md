@@ -28,5 +28,11 @@ In this lecture , we are going to dive in react with vite (vite inhances the dev
 3. Event listening with multiple input tags
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # CARD PRACTICE PROJECT
-JUST DISPLAYING THE DATA OF AOI IN WEB IN THE FORM OF CARD NOTHING NEW BUT, IT WILL BE A NICE PRACTICE PROJECT
+JUST DISPLAYING THE DATA OF API IN WEB IN THE FORM OF CARD NOTHING NEW BUT, IT WILL BE A NICE PRACTICE PROJECT
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Lecture-5
+In this lecture , we are going to dive in react with vite (vite inhances the development spped of react) and we further going to saw more thing , till now topics are covered :-
+1. React Routering
+2. NavLink , Link & to tag in react
+3. React Provider
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
