@@ -1,0 +1,18 @@
+import React from 'react'
+import Button from './button.jsx'
+
+function Navbar() {
+  return (
+    <div>
+      <ul>
+        <li>Home</li>
+        <li>About</li>
+        <li>Services</li>
+        <li>Contact</li>
+      </ul>
+      <Button />
+    </div>
+  )
+}
+
+export default Navbar
