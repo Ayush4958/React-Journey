@@ -42,3 +42,8 @@ In this lecture , we are going to dive in react with vite (vite inhances the dev
 2. using useContext hook
 3. adding modification
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Lecture-7
+In this lecture , we are going to dive in react with vite (vite inhances the development spped of react) and we further going to saw more thing , till now topics are covered :-
+1. Complex computation example
+2. using useMemo hook
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
