@@ -50,6 +50,13 @@ A practical mini-project displaying fetched API data in beautiful card layouts.
 * 🔸 Solving complex computation issues
 * 🔸 Using `useMemo` for memoization
 
+### 🧩 Lecture 8 – Memoization & useCallback
+
+🔸 Understanding React.memo to prevent unnecessary re-renders
+🔸 Using useCallback to memoize functions between renders
+🔸 Comparing useMemo vs useCallback
+🔸 Real-world performance use cases
+
 ---
 
 ## 📦 Tech Stack
