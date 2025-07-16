@@ -57,6 +57,18 @@ A practical mini-project displaying fetched API data in beautiful card layouts.
 * 🔸 Comparing useMemo vs useCallback
 * 🔸 Real-world performance use cases
 
+### 📋 Lecture 9 – React Hook Form Integration
+
+*🔸 Form management with react-hook-form
+*🔸 Registering input fields and applying validation rules
+*🔸 Handling form submission asynchronously
+*🔸 Showing inline validation messages and managing isSubmitting state
+*🔸 Using setError to display custom or server-side errors
+*🔸 Connecting form submission to a backend using fetch
+*🔸 Full error handling with clean UX and developer-friendly tooling
+
+
+
 ---
 
 ## 📦 Tech Stack
