@@ -67,6 +67,14 @@ A practical mini-project displaying fetched API data in beautiful card layouts.
 * 🔸 Connecting form submission to a backend using fetch
 * 🔸 Full error handling with clean UX and developer-friendly tooling
 
+### 📘 Lecture-10 - React ReduxToolKit Library
+
+* 🔸 Understanding the need for global state management
+* 🔸 Introduction to Redux Toolkit and its core utilities
+* 🔸 Using configureStore() to set up a Redux store
+* 🔸 Using createSlice() to define state, reducers, and actions in one place
+* 🔸 useSelector() for reading state
+* 🔸 useDispatch() for updating state
 
 ---
 
